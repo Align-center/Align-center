@@ -1,7 +1,6 @@
 ### Hey, I'm Lucas - aka [Align-center][website] 👋
 
 [![Website](https://img.shields.io/badge/lucas_frech-ON-success?style=for-the-badge)](https://lucas-web-portfolio.herokuapp.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Align_centR?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Align_centR)
 
 ## I'm a Developer, music enthousiast and gamer !
 
